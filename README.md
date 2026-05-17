@@ -12,7 +12,7 @@
 
 1. Клонирование репозитория
 ```
-git clone 
+git clone https://github.com/mnlyuzina/Big_Data_Analysis_lab1
 ```
 2. Запуск контейнера
 ```bash
